@@ -60,6 +60,8 @@ st.markdown("""
     align-items: center;
     flex-direction: column;
     }
+    button[title="View fullscreen"]{
+    visibility: hidden;}
     </style>
     """, unsafe_allow_html=True)
 
