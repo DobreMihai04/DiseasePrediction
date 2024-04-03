@@ -14,7 +14,7 @@ You can access the live application [here](http://www.dobremihai.com/).
 - **Cloud Hosting**: AWS EC2
 - **Containerization**: Docker
 
-## Runing it
+## Running it
 Ensure Docker is installed on your machine and the repo is cloned, then:
 
 
